@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bomet County Hub - Resources & News</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="images/favicon.ico">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo-section">
+                <h1 class="site-title">Bomet County Hub</h1>
+                <p class="site-tagline">Your gateway to local resources and news</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-links">
+                <a href="index.html" class="nav-link active">🏠 Home</a>
+                <a href="news.html" class="nav-link">📰 News</a>
+                <a href="resources.html" class="nav-link">🏥 Resources</a>
+                <a href="about.html" class="nav-link">ℹ About</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Hero Section -->
+            <section class="hero-section">
+                <div class="hero-content">
+                    <h2>Welcome to Bomet County Information Hub</h2>
+                    <p>Find local services, read daily news, and stay connected with your community</p>
+                    <div class="hero-stats">
+                        <div class="stat">
+                            <span class="stat-number">50+</span>
+                            <span class="stat-label">Local Services</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">Daily</span>
+                            <span class="stat-label">News Updates</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">Free</span>
+                            <span class="stat-label">Access Always</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <img src="https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=600&h=400&fit=crop" 
+                         alt="Beautiful Kenyan landscape" 
+                         class="hero-img">
+                </div>
+            </section>
+
+            <!-- Latest News Section -->
+            <section class="section" id="latest-news">
+                <div class="section-header">
+                    <h2>📰 Latest Bomet News</h2>
+                    <a href="news.html" class="see-all-link">View All News →</a>
+                </div>
+                <div id="news-container" class="news-grid">
+                    <!-- News will be loaded here by JavaScript -->
+                    <div class="loading">Loading latest news...</div>
+                </div>
+            </section>
+
+            <!-- Quick Resources Section -->
+            <section class="section" id="quick-resources">
+                <div class="section-header">
+                    <h2>🚀 Quick Access Resources</h2>
+                    <a href="resources.html" class="see-all-link">Browse All →</a>
+                </div>
+                <div class="resources-grid">
+                    <a href="resources.html#health" class="resource-category-card health">
+                        <div class="category-icon">🏥</div>
+                        <h3>Health Facilities</h3>
+                        <p>Hospitals, clinics, and health centers</p>
+                        <span class="resource-count">8 facilities</span>
+                    </a>
+                    
+                    <a href="resources.html#agriculture" class="resource-category-card agriculture">
+                        <div class="category-icon">🌱</div>
+                        <h3>Agricultural Services</h3>
+                        <p>Cooperatives, extension offices, vet services</p>
+                        <span class="resource-count">6 services</span>
+                    </a>
+                    
+                    <a href="resources.html#education" class="resource-category-card education">
+                        <div class="category-icon">📚</div>
+                        <h3>Educational Resources</h3>
+                        <p>Libraries, training centers, learning materials</p>
+                        <span class="resource-count">5 resources</span>
+                    </a>
+                    
+                    <a href="resources.html#government" class="resource-category-card government">
+                        <div class="category-icon">🏛</div>
+                        <h3>Government Offices</h3>
+                        <p>County departments and administrative offices</p>
+                        <span class="resource-count">4 offices</span>
+                    </a>
+                </div>
+            </section>
+
+            <!-- Emergency Contacts -->
+            <section class="section emergency-contacts">
+                <div class="section-header">
+                    <h2>🚨 Emergency Contacts</h2>
+                </div>
+                <div class="emergency-grid">
+                    <div class="emergency-card police">
+                        <div class="emergency-icon">🚓</div>
+                        <h3>Police Emergency</h3>
+                        <p class="emergency-number">999 / 112</p>
+                        <p class="emergency-desc">For all police emergencies</p>
+                    </div>
+                    <div class="emergency-card ambulance">
+                        <div class="emergency-icon">🚑</div>
+                        <h3>Ambulance Services</h3>
+                        <p class="emergency-number">0720-123456</p>
+                        <p class="emergency-desc">Bomet County Referral Hospital</p>
+                    </div>
+                    <div class="emergency-card fire">
+                        <div class="emergency-icon">🚒</div>
+                        <h3>Fire Department</h3>
+                        <p class="emergency-number">0721-234567</p>
+                        <p class="emergency-desc">County Fire & Rescue</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Bomet County Hub</h3>
+                    <p>Connecting communities with information and resources.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <a href="index.html">Home</a>
+                    <a href="news.html">News</a>
+                    <a href="resources.html">Resources</a>
+                    <a href="about.html">About</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p>Email: projectskydaddys@gmail.com</p>
+                    <p>Phone: 0117-702463 </p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Bomet County Hub. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/news.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

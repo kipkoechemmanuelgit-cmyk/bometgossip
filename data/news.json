@@ -1,0 +1,71 @@
+{
+  "last_updated": "2024-01-15",
+  "news": [
+    {
+      "id": 1,
+      "title": "Bomet County Launches New Dairy Farmers Support Program",
+      "summary": "County government announces subsidy program for dairy farmers to boost milk production",
+      "content": "The Bomet County Government has launched a comprehensive dairy farmers support program aimed at increasing milk production across the region. The program includes subsidies for animal feed, artificial insemination services, and veterinary care. Farmers can register at their local agricultural offices starting next Monday. County Agriculture Officer Dr. Sarah Chepkwony stated that this initiative aims to boost daily milk production from the current 50,000 liters to 100,000 liters within the next year.",
+      "date": "2024-01-15",
+      "category": "agriculture",
+      "source": "County Agriculture Department",
+      "image_url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=400&h=250&fit=crop",
+      "important": true
+    },
+    {
+      "id": 2,
+      "title": "New Health Center Opens in Sotik Sub-County",
+      "summary": "Modern health facility to serve over 5,000 residents, offering maternal and child health services",
+      "content": "A new health center has been officially opened in Sotik Sub-County, bringing essential healthcare services closer to over 5,000 residents. The facility offers maternal and child health services, immunization, outpatient care, and a fully stocked pharmacy. Health CECM Dr. Joseph Sitonik emphasized that this is part of the county's plan to ensure every resident lives within 5km of a health facility. The center will operate 24/7 with trained medical staff.",
+      "date": "2024-01-14",
+      "category": "health",
+      "source": "Department of Health",
+      "image_url": "https://images.unsplash.com/photo-1516549655669-dfbf4e8e11d9?w=400&h=250&fit=crop",
+      "important": false
+    },
+    {
+      "id": 3,
+      "title": "Market Prices for Maize and Beans This Week",
+      "summary": "Current market rates show stable prices for maize at KSh 50 per kg, beans at KSh 80 per kg",
+      "content": "Market prices for agricultural produce remain stable this week according to the Bomet Farmers Association. Maize is trading at KSh 50 per kg, while beans are at KSh 80 per kg. The association reports good harvests across the county, with sufficient supply meeting demand. Farmers are encouraged to take advantage of the current prices as the market remains favorable. The county government is also setting up collection centers to help farmers access better markets.",
+      "date": "2024-01-13",
+      "category": "market",
+      "source": "Bomet Farmers Association",
+      "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=250&fit=crop",
+      "important": false
+    },
+    {
+      "id": 4,
+      "title": "Road Construction Update on B5 Highway",
+      "summary": "Progress report on the ongoing highway expansion project between Bomet and Narok",
+      "content": "The B5 highway expansion project is 65% complete according to the latest progress report from the County Engineering Department. The project, which involves widening the road to dual carriageway standards, is expected to be completed by June 2024. Motorists are advised to use alternative routes during peak construction hours. The improved road is expected to reduce travel time between Bomet and Narok by 40% and boost economic activities along the corridor.",
+      "date": "2024-01-12",
+      "category": "infrastructure",
+      "source": "County Engineering Department",
+      "image_url": "https://images.unsplash.com/photo-1545152420-462a5c0d83c3?w=400&h=250&fit=crop",
+      "important": false
+    },
+    {
+      "id": 5,
+      "title": "Free Computer Classes for Youth at Bomet Library",
+      "summary": "Digital skills training program launched to equip youth with basic computer literacy",
+      "content": "The County Education Office has launched free computer literacy classes for youth at the Bomet County Library. The program targets young people aged 18-35 and covers basic computer operations, internet usage, Microsoft Office applications, and online job searching. Classes are held every weekday from 2 PM to 5 PM. Registration is ongoing at the library, and participants will receive certificates upon completion. The initiative aims to bridge the digital divide and enhance employability.",
+      "date": "2024-01-11",
+      "category": "education",
+      "source": "County Education Office",
+      "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&h=250&fit=crop",
+      "important": false
+    },
+    {
+      "id": 6,
+      "title": "Weather Alert: Heavy Rains Expected This Weekend",
+      "summary": "Meteorological department warns of heavy rainfall across Bomet County from Friday",
+      "content": "The Kenya Meteorological Department has issued a weather advisory warning of heavy rainfall expected across Bomet County from Friday through Sunday. Farmers are advised to harvest mature crops and secure their produce. Residents in low-lying areas should take necessary precautions. The county emergency response team is on standby to handle any flood-related incidents. Updates will be provided through local radio stations and the county communication channels.",
+      "date": "2024-01-10",
+      "category": "weather",
+      "source": "Kenya Meteorological Department",
+      "image_url": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=400&h=250&fit=crop",
+      "important": true
+    }
+  ]
+}
