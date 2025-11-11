@@ -1,0 +1,110 @@
+{
+  "news_categories": [
+    {
+      "id": "agriculture",
+      "name": "Agriculture",
+      "icon": "🌱",
+      "color": "#16a34a",
+      "description": "Farming, crops, livestock, and agricultural developments"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "icon": "🏥",
+      "color": "#dc2626",
+      "description": "Healthcare services, facilities, and public health news"
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "icon": "📚",
+      "color": "#2563eb",
+      "description": "Schools, training programs, and educational resources"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure",
+      "icon": "🏗",
+      "color": "#0891b2",
+      "description": "Roads, buildings, and development projects"
+    },
+    {
+      "id": "market",
+      "name": "Market Prices",
+      "icon": "💰",
+      "color": "#ca8a04",
+      "description": "Current prices for crops, goods, and services"
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "icon": "🌦",
+      "color": "#7c3aed",
+      "description": "Weather forecasts, alerts, and climate information"
+    },
+    {
+      "id": "government",
+      "name": "Government",
+      "icon": "🏛",
+      "color": "#ea580c",
+      "description": "County announcements, policies, and public services"
+    },
+    {
+      "id": "community",
+      "name": "Community",
+      "icon": "👥",
+      "color": "#db2777",
+      "description": "Local events, community initiatives, and social news"
+    }
+  ],
+  "resource_categories": [
+    {
+      "id": "health_facilities",
+      "name": "Health Facilities",
+      "icon": "🏥",
+      "color": "#dc2626",
+      "description": "Hospitals, clinics, and health centers",
+      "count": 8
+    },
+    {
+      "id": "agricultural_services",
+      "name": "Agricultural Services",
+      "icon": "🌱",
+      "color": "#16a34a",
+      "description": "Cooperatives, extension offices, vet services",
+      "count": 6
+    },
+    {
+      "id": "educational_resources",
+      "name": "Educational Resources",
+      "icon": "📚",
+      "color": "#2563eb",
+      "description": "Libraries, training centers, learning materials",
+      "count": 5
+    },
+    {
+      "id": "government_offices",
+      "name": "Government Offices",
+      "icon": "🏛",
+      "color": "#ea580c",
+      "description": "County departments and administrative offices",
+      "count": 4
+    },
+    {
+      "id": "emergency_services",
+      "name": "Emergency Services",
+      "icon": "🚨",
+      "color": "#ef4444",
+      "description": "Police, fire, ambulance, and emergency contacts",
+      "count": 3
+    },
+    {
+      "id": "financial_services",
+      "name": "Financial Services",
+      "icon": "💳",
+      "color": "#059669",
+      "description": "Banks, SACCOs, and financial institutions",
+      "count": 4
+    }
+  ]
+}
